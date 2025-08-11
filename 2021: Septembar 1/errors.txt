@@ -1,0 +1,6 @@
+tail: cannot open 'fajl.txt' for reading: No such file or directory
+
+stat: cannot statx '...': No such file or directory
+
+head: cannot open '1.txt' for reading: No such file or directory
+
